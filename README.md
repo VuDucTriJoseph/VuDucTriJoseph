@@ -1,78 +1,74 @@
-<h1 align="center">Hi 👋, I'm Vũ Đức Trí</h1>
-<h3 align="center">A passionate Frontend Web Developer from Vietnam</h3>
+<h1 align="center" style="color:#2E8B57;">🌿 Welcome to my calm coding space 🌿</h1>
+<h3 align="center" style="color:#4682B4;">Hi, I'm <strong>Vũ Đức Trí</strong> – Frontend Web Developer focusing on clean, relaxing, and delightful UIs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=JavaScript+%7C+React+Developer;Frontend+Lover+%F0%9F%94%A5;Building+clean+and+modern+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&pause=1000&color=3CB371&center=true&vCenter=true&width=450&lines=Building+peaceful+web+interfaces...;React+%7C+Next.js+%7C+Tailwind+Lover;Creating+UI+that+feels+like+vacation+🌴" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🌼 About Me
 
-- 🌱 I'm currently learning **Next.js** and exploring **AI tools**  
-- 🔭 I’m working on improving my **React + Redux** stack  
-- 🧠 I also know basic **Python** scripting  
-- 💬 Ask me about **JavaScript, React, Redux, Next.js**  
-- 📫 How to reach me: **vutrilkvn89@gmail.com** 
-- ⚡ Fun fact: I love clean UI and keyboard shortcuts
+- 🎨 I design relaxing, user-friendly interfaces using **React** & **Next.js**
+- 🌱 I’m currently exploring **design systems** and **motion UX**
+- 🔧 I also build tools using **Redux** and experiment with **Python**
+- ☕ I believe code should feel as smooth as a good cup of coffee
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Toolbox
 
-#### 💻 Frontend
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-</p>
-
-#### 🧰 Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 ---
 
----
+## 🏝️ Featured Project – *The Wild Oasis*
 
-### 🚀 My Featured Projects
-
-#### 🏨 The Wild Oasis – Cozy Luxury Hotel Web App
-A modern hotel management interface where users can check availability, log in, and manage cabin bookings.
-
-- 🔗 [View Repo](https://github.com/VuDucTriJoseph/The-Wild-Oasis-Web)
-- ✨ Features:
-  - User authentication and protected routes
-  - Live availability check for cabins
-  - Clean and responsive UI design
-- 🛠 Tech Stack: React, Next.js, Tailwind CSS
-
----
-
-
-### 📈 GitHub Stats
+A cozy hotel booking app where users can explore beautiful cabins, log in, check availability, and manage bookings — built to feel like a **peaceful stay at a luxury resort**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VuDucTriJoseph&show_icons=true&theme=radical" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuDucTriJoseph&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://raw.githubusercontent.com/VuDucTriJoseph/The-Wild-Oasis-Web/main/public/project-preview.png" alt="The Wild Oasis Preview" width="600" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+</p>
+
+> 🌿 *"Simple, clean, and relaxing – just like a real vacation experience."*
+
+### 🔗 [View on GitHub](https://github.com/VuDucTriJoseph/The-Wild-Oasis-Web)
+
+#### 🧘‍♂️ Built with:
+- ✅ React, Next.js, Tailwind CSS
+- 🔐 Auth & route protection
+- 📦 Admin Dashboard (bookings, guests, cabins)
+- 📱 Fully responsive, minimal UI
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VuDucTriJoseph&show_icons=true&theme=calm&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuDucTriJoseph&layout=compact&theme=calm" height="180"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 📬 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vutrlkvn89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center" style="color:gray">
+  Thank you for visiting 🌸 Hope your day is full of peace and creativity!
 </p>
