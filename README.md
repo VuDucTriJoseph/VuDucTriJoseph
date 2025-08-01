@@ -13,7 +13,7 @@
 - 🔭 I’m working on improving my **React + Redux** stack  
 - 🧠 I also know basic **Python** scripting  
 - 💬 Ask me about **JavaScript, React, Redux, Next.js**  
-- 📫 How to reach me: **your.email@example.com** (sửa lại nhé)  
+- 📫 How to reach me: **vutrilkvn89@gmail.com** 
 - ⚡ Fun fact: I love clean UI and keyboard shortcuts
 
 ---
@@ -39,6 +39,23 @@
 </p>
 
 ---
+
+---
+
+### 🚀 My Featured Projects
+
+#### 🏨 The Wild Oasis – Cozy Luxury Hotel Web App
+A modern hotel management interface where users can check availability, log in, and manage cabin bookings.
+
+- 🔗 [View Repo](https://github.com/VuDucTriJoseph/The-Wild-Oasis-Web)
+- ✨ Features:
+  - User authentication and protected routes
+  - Live availability check for cabins
+  - Clean and responsive UI design
+- 🛠 Tech Stack: React, Next.js, Tailwind CSS
+
+---
+
 
 ### 📈 GitHub Stats
 
